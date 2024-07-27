@@ -1,4 +1,5 @@
 matplotlib
+odfpy
 pandas
 plotly
 seaborn
